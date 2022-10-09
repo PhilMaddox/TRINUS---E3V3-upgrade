@@ -3,7 +3,7 @@ Firmware files to operate a BTT E3V3 control board on a Trinus printer
 Based on the Marlin 2.1.1 released version. 
 
 ## No heated bed 
-This firmware contains the operational controller just set the bed temp to zero in your slicer
+This firmware contains the operational PID controller for the bed just set the bed temp to zero in your slicer
 
 ## Heated Bed 
 There are 2 types of trinus heated bed
