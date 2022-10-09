@@ -13,3 +13,8 @@ Type 1 - Has onboard control for bed temp 60 or 90 deg via a switch This board n
 Type 2 - Upgraded bed with manual leveling system.  Bed is controlled from the Bardo control board but has
          non standard wiring as the temp control MOSFET is on the bed itself.
          A solution to allow the bed to be controlled from the main control board is WIP ....TBC
+
+
+## STL Folder
+Contains STL files for an adapter plate to fit the E3V3 board to a Trinus printer and a bracket for a
+control board "case" cooling fan. Either 30X30X10 or 40X40X10 
