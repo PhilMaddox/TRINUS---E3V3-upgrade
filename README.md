@@ -19,28 +19,12 @@ Type 2 - Upgraded bed allowing for temp control from software / gcode
 
 
 
-Type 3 - Upgraded bed with manual leveling system.  Kodama Heated Bed is controlled from the Bardo control board but has
+Type 3 - Upgraded longer bed with manual leveling system.  Kodama Heated Bed is controlled from the Bardo control board but has
          non standard wiring as the temp control MOSFET is on the bed boad itself.
-         A solution to allow the bed to be controlled from the E3V3 main control is to be found in the Heated Bed Mod folder
+         Was supplied as kit with bed , springs, screws , thumb nuts, glass bed & clips 
+         
+         Note : A solution to allow the bed to be controlled from the E3V3 main control is to be found in the Heated Bed Mod folder
          The modification will suit most commonly avaible control boards
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## STL Folder
 Contains STL files for an adapter plate to fit the E3V3 board to a Trinus printer and a bracket for a
