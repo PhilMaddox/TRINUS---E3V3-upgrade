@@ -12,11 +12,35 @@ Type 1 - Has onboard control for bed temp 60 or 90 deg via a switch This board n
 
 Type 2 - Upgraded bed allowing for temp control from software / gcode 
          Direct replacement for Type 1 style board and came with cable for connection to the Panowin control board.
+         
+         
+![Trinus Panowin bed Type 2](https://user-images.githubusercontent.com/11269947/194803489-c71bce80-5b6c-445e-b9b8-1cc8c5805e0c.jpg)
+
+
+
 
 Type 3 - Upgraded bed with manual leveling system.  Kodama Heated Bed is controlled from the Bardo control board but has
          non standard wiring as the temp control MOSFET is on the bed boad itself.
          A solution to allow the bed to be controlled from the E3V3 main control is to be found in the Heated Bed Mod folder
          The modification will suit most commonly avaible control boards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## STL Folder
 Contains STL files for an adapter plate to fit the E3V3 board to a Trinus printer and a bracket for a
