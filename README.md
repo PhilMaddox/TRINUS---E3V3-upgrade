@@ -24,7 +24,7 @@ Type 3 - Upgraded longer bed with manual leveling system.  Kodama Heated Bed is 
          Was supplied as kit with bed , springs, screws , thumb nuts, glass bed & clips 
          
          Note : A solution to allow the bed to be controlled from the E3V3 main control is to be found in the Heated Bed Mod folder
-         The modification will suit most commonly avaible control boards
+         The modification will suit most commonly available control boards
 
 ## STL Folder
 Contains STL files for an adapter plate to fit the E3V3 board to a Trinus printer and a bracket for a
